@@ -1,0 +1,82 @@
+/configver 2
+/panels [<1>]
+/panels/dark-mode true
+/panels/panel-1/autohide-behavior uint32 0
+/panels/panel-1/background-rgba [<0.15686274509803921>, <0.15686274509803921>, <0.15686274509803921>, <1.0>]
+/panels/panel-1/background-style uint32 0
+/panels/panel-1/icon-size uint32 25
+/panels/panel-1/length 100.0
+/panels/panel-1/plugin-ids [<1>, <32>, <33>, <2>, <19>, <3>, <5>, <4>, <11>, <30>, <9>, <6>, <8>, <24>, <29>, <12>, <16>, <18>, <23>]
+/panels/panel-1/position 'p=9;x=953;y=24'
+/panels/panel-1/position-locked true
+/panels/panel-1/size uint32 45
+/plugins/plugin-1 'whiskermenu'
+/plugins/plugin-1/button-single-row false
+/plugins/plugin-1/button-title ''
+/plugins/plugin-1/category-show-name true
+/plugins/plugin-1/launcher-icon-size 2
+/plugins/plugin-1/launcher-show-description false
+/plugins/plugin-1/launcher-show-name true
+/plugins/plugin-1/launcher-show-tooltip true
+/plugins/plugin-1/position-search-alternate false
+/plugins/plugin-1/recent [<'google-chrome.desktop'>, <'xfce4-file-manager.desktop'>, <'kali-fiked.desktop'>, <'xfce-keyboard-settings.desktop'>, <'xfce-ui-settings.desktop'>, <'thunar.desktop'>, <'xfce-wm-settings.desktop'>, <'firefox-esr.desktop'>, <'xfce4-power-manager-settings.desktop'>, <'chromium.desktop'>]
+/plugins/plugin-1/show-button-icon true
+/plugins/plugin-1/show-button-title true
+/plugins/plugin-1/view-mode 2
+/plugins/plugin-11 'tasklist'
+/plugins/plugin-11/flat-buttons true
+/plugins/plugin-11/grouping true
+/plugins/plugin-11/include-all-monitors false
+/plugins/plugin-11/include-all-workspaces true
+/plugins/plugin-11/middle-click uint32 0
+/plugins/plugin-11/show-handle false
+/plugins/plugin-11/show-labels true
+/plugins/plugin-11/show-tooltips false
+/plugins/plugin-11/sort-order uint32 2
+/plugins/plugin-11/switch-workspace-on-unminimize true
+/plugins/plugin-12 'separator'
+/plugins/plugin-12/style uint32 0
+/plugins/plugin-16 'pulseaudio'
+/plugins/plugin-16/enable-keyboard-shortcuts true
+/plugins/plugin-16/known-players 'Chrome;spotify'
+/plugins/plugin-18 'power-manager-plugin'
+/plugins/plugin-19 'clock'
+/plugins/plugin-19/digital-date-font 'Sans Bold 12'
+/plugins/plugin-19/digital-date-format '%a %b %d %l:%M %p'
+/plugins/plugin-19/digital-layout uint32 2
+/plugins/plugin-19/digital-time-font 'Roboto Bold 11'
+/plugins/plugin-19/digital-time-format '%l:%M %P'
+/plugins/plugin-19/mode uint32 2
+/plugins/plugin-19/tooltip-format '%A %d %B %Y'
+/plugins/plugin-2 'separator'
+/plugins/plugin-2/style uint32 0
+/plugins/plugin-23 'systemload'
+/plugins/plugin-23/network/enabled true
+/plugins/plugin-23/timeout uint32 500
+/plugins/plugin-23/timeout-seconds uint32 1
+/plugins/plugin-23/uptime/enabled false
+/plugins/plugin-24 'separator'
+/plugins/plugin-24/style uint32 0
+/plugins/plugin-29 'systray'
+/plugins/plugin-29/icon-size 0
+/plugins/plugin-29/known-legacy-items [<'ibus-ui-gtk3'>, <'wi-fi network connection “boeva” active: boeva (67%)'>, <'wi-fi network connection “boeva” active: boeva (97%)'>, <'wi-fi network connection “boeva” active: boeva (92%)'>, <'ibus panel'>, <'wi-fi network connection “boeva” active: boeva (95%)'>, <'wi-fi network connection “boeva” active: boeva (79%)'>, <'wi-fi network connection “boeva” active: boeva (78%)'>, <'wi-fi network connection “boeva” active: boeva (80%)'>, <'wi-fi network connection “boeva” active: boeva (81%)'>, <'wi-fi network connection “boeva” active: boeva (75%)'>]
+/plugins/plugin-29/single-row false
+/plugins/plugin-3 'separator'
+/plugins/plugin-3/style uint32 0
+/plugins/plugin-30 'separator'
+/plugins/plugin-30/expand true
+/plugins/plugin-30/style uint32 0
+/plugins/plugin-32 'separator'
+/plugins/plugin-32/style uint32 0
+/plugins/plugin-33 'separator'
+/plugins/plugin-33/style uint32 0
+/plugins/plugin-4 'separator'
+/plugins/plugin-4/style uint32 0
+/plugins/plugin-5 'separator'
+/plugins/plugin-5/style uint32 0
+/plugins/plugin-6 'separator'
+/plugins/plugin-6/style uint32 0
+/plugins/plugin-8 'showdesktop'
+/plugins/plugin-9 'pager'
+/plugins/plugin-9/miniature-view false
+/plugins/plugin-9/rows uint32 1
